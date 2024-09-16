@@ -18,6 +18,7 @@ public class Week1 {
     //added a comment
     //demonstrate of show change
     //demonstrate pull
+    //fetch and merge
     public static void main(String[] args) {
         
         // TODO code application logic here
